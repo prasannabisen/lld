@@ -1,6 +1,8 @@
 package Lru;
 
 import java.util.HashMap;
+import java.util.PriorityQueue;
+import java.util.Set;
 
 public class LRU {
     private int size = 0;
